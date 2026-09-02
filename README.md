@@ -11,8 +11,8 @@ Manual functional testing of the OrangeHRM demo site, covering modules such as:
 - Admin module
 - PIM module
 - Time module
-- Change password
-- Recruitment
+- Change password module
+- Recruitment module
 
 
 ## Files in this Repository
