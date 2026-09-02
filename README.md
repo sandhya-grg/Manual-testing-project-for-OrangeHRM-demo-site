@@ -1,0 +1,1 @@
+# Manual-testing-project-for-OrangeHRM-demo-site
