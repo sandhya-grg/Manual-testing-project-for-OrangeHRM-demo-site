@@ -7,11 +7,13 @@ written and executed manually, and bugs found during testing.
 
 ## Project Scope
 Manual functional testing of the OrangeHRM demo site, covering modules such as:
-- Login
-- Admin
-- PIM (Personal Information Management)
-- Leave
-- (add/remove modules based on what you actually tested)
+- Login module
+- Admin module
+- PIM module
+- Time module
+- Change password
+- Recruitment
+
 
 ## Files in this Repository
 - `test_plan.md` — Objective, scope, approach, and environment for this testing project.
@@ -22,30 +24,35 @@ Manual functional testing of the OrangeHRM demo site, covering modules such as:
 
 ## Tools Used
 - Manual Testing
-- Excel / Google Sheets for documentation
+- Excel 
 - OrangeHRM Demo Site as Application Under Test (AUT)
 
 ## Test Case File Structure
 | Column | Description |
 |--------|-------------|
-| TC ID | Unique identifier for each test case |
+| TestcaseID | Unique identifier for each test case |
 | Module | Feature/module being tested |
 | Test Scenario | What is being verified |
-| Steps | Steps to execute the test |
+| Testcase Title | What is the title |
+| Precondition | What has to be done already |
+| Test Steps | Steps to execute the test |
+| Test Data | What data are used |
 | Expected Result | What should happen |
 | Actual Result | What actually happened |
 | Status | Pass / Fail |
+|Executed By| Who executed it |
 
 ## Bug Report File Structure
 | Column | Description |
 |--------|-------------|
-| Bug ID | Unique identifier for each bug |
-| Title | Short summary of the issue |
+| Bug_ID | Unique identifier for each bug |
+| Bug_Title | Short summary of the issue |
 | Steps to Reproduce | How to recreate the bug |
 | Expected Result | What should have happened |
 | Actual Result | What actually happened |
-| Severity | Critical / High / Medium / Low |
-| Status | Open / Fixed / Closed |
+| Browser | What browser used |
+| Priority | High / Low |
+| Severity | High / Low |
 
 ## Author
-[Your Name]
+|Sandhya Gurung|
