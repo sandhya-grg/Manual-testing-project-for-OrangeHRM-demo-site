@@ -16,7 +16,7 @@ Manual functional testing of the OrangeHRM demo site, covering modules such as:
 
 
 ## Files in this Repository
-- `test_plan.docs` — Objective, scope, approach, and environment for this testing project.
+- `Test_Plan.docx` — Objective, scope, approach, and environment for this testing project.
 - `Test_Cases.xlsx` — All manual test cases written for this project, including
   steps, expected results, actual results, and pass/fail status.
 - `Bug_Report.xlsx` — Bugs/defects found while executing the test cases above,
