@@ -16,10 +16,10 @@ Manual functional testing of the OrangeHRM demo site, covering modules such as:
 
 
 ## Files in this Repository
-- `test_plan.md` — Objective, scope, approach, and environment for this testing project.
-- `test_cases.xlsx` — All manual test cases written for this project, including
+- `test_plan.docs` — Objective, scope, approach, and environment for this testing project.
+- `Test_Cases.xlsx` — All manual test cases written for this project, including
   steps, expected results, actual results, and pass/fail status.
-- `bug_report.xlsx` — Bugs/defects found while executing the test cases above,
+- `Bug_Report.xlsx` — Bugs/defects found while executing the test cases above,
   with steps to reproduce, severity, and status.
 
 ## Tools Used
@@ -55,4 +55,5 @@ Manual functional testing of the OrangeHRM demo site, covering modules such as:
 | Severity | High / Low |
 
 ## Author
-|Sandhya Gurung|
+Sandhya Gurung
+QA 
